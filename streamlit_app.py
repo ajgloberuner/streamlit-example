@@ -1,5 +1,5 @@
 import streamlit as st
-import neuralprophet
+import neuralprophet[live]
 import pytrends
 
 st.set_page_config(page_title="Google Trends & NeuralProphet - Explainable Trends at Scale", page_icon="📈",
