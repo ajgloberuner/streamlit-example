@@ -1,4 +1,6 @@
 import streamlit as st
+import neuralprophet
+import pytrends
 
 st.set_page_config(page_title="Google Trends & NeuralProphet - Explainable Trends at Scale", page_icon="📈",
                    layout="wide")  # needs to be the first thing after the streamlit import
